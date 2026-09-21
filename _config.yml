@@ -4,7 +4,7 @@ description: "My blog"
 permalink: /:title/
 lang: "pt-BR"
 excerpt_separator: "\n\n\n"
-date_format: "%D %b, %Y"
+date_format: "%B %D, %Y"
 
 # Layout
 
