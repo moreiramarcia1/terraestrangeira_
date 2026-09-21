@@ -2,7 +2,7 @@ title: "Terra Estrangeira"
 author: "Marcia"
 description: "My blog"
 permalink: /:title/
-lang: "en"
+lang: "pt-br"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
